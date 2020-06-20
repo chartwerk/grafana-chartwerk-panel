@@ -1,1 +1,1 @@
-# grafana-chartwerk-panel
+Goto repo moved: [chartwerk/grafana-chartwerk-app](https://github.com/chartwerk/grafana-chartwerk-app)
